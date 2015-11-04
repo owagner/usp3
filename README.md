@@ -1,6 +1,7 @@
 Trivial utility to control an Chromoflex RGB LED controller
 via RS232. Utilizes the "USP3" serial protocol.
 
+```
 Parameters:
 
 -d --device     device to use [/dev/ttyUSB0]
@@ -16,4 +17,4 @@ Parameters:
 -L --lamon      run load average monitor
 -h --help
 -V --version
-
+```
